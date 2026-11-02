@@ -1,6 +1,6 @@
 # Jupyter Analytics Telemetry
 
-> **My contribution (Harkeerat Singh Sawhney, EPFL CHILI Lab semester project, Sep 2025 – Jan 2026, grade 6/6)**
+> **My contribution (Harkeerat Singh Sawhney, EPFL CHILI Lab semester project, Sep 2025 – Jan 2026)**
 > I extended Jupyter Analytics with real-time collaboration features that were merged upstream and used in live EPFL courses:
 > instructor → student **live notebook sync** with a deferred-update queue (students accept or dismiss incoming changes
 > without losing their own work), **RISE slideshow** integration, a **teammate location tracker** sidebar for peer
