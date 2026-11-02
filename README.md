@@ -1,5 +1,13 @@
 # Jupyter Analytics Telemetry
 
+> **My contribution (Harkeerat Singh Sawhney, EPFL CHILI Lab semester project, Sep 2025 – Jan 2026, grade 6/6)**
+> I extended Jupyter Analytics with real-time collaboration features that were merged upstream and used in live EPFL courses:
+> instructor → student **live notebook sync** with a deferred-update queue (students accept or dismiss incoming changes
+> without losing their own work), **RISE slideshow** integration, a **teammate location tracker** sidebar for peer
+> collaboration, and instructor-side analytics of pending updates. Original project: [chili-epfl/jupyter-analytics](https://github.com/chili-epfl/jupyter-analytics).
+
+
+
 [![Binder Badge](https://github.com/chili-epfl/jupyter-analytics-telemetry/actions/workflows/binder-on-pr.yml/badge.svg)](https://github.com/chili-epfl/jupyter-analytics-telemetry/actions/workflows/binder-on-pr.yml)
 [![Build](https://github.com/chili-epfl/jupyter-analytics-telemetry/actions/workflows/build.yml/badge.svg)](https://github.com/chili-epfl/jupyter-analytics-telemetry/actions/workflows/build.yml)
 [![Check Release](https://github.com/chili-epfl/jupyter-analytics-telemetry/actions/workflows/check-release.yml/badge.svg)](https://github.com/chili-epfl/jupyter-analytics-telemetry/actions/workflows/check-release.yml)
